@@ -1,4 +1,4 @@
-# USDAN
+# USDAN 
 The implementation of [**Unified unsupervised and semi-supervised domain adaptation network for cross-scenario face anti-spoofing**](https://www.sciencedirect.com/science/article/abs/pii/S0031320321000753).
 
 An overview of the proposed USDAN method:
@@ -51,7 +51,7 @@ python da_test.py
 ```
 
 ## Citation
-Please cite our paper if the code is helpful to your research.
+Please cite our paper if the code is helpful to your researches.
 ```
 @InProceedings{Jia_2021_PR_USDAN,
     author = {Yunpei Jia and Jie Zhang and Shiguang Shan and Xilin Chen},
