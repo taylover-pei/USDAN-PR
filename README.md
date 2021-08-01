@@ -21,7 +21,7 @@ Download the CASIA-FASD, Idiap Replay-Attack, and MSU-MFSD datasets.
 
 **Data Pre-processing.** 
 
-[MTCNN algorithm](https://ieeexplore.ieee.org/abstract/document/7553523) is utilized for face detection and face alignment. All the detected faces are normalized to 256$\times$256$\times$3, where only RGB channels are utilized for training. The exact codes that we used can be found [here](https://github.com/YYuanAnyVision/mxnet_mtcnn_face_detection).
+[MTCNN algorithm](https://ieeexplore.ieee.org/abstract/document/7553523) is utilized for face detection and face alignment. All the detected faces are normalized to 224$\times$224$\times$3, where only RGB channels are utilized for training. The exact codes that we used can be found [here](https://github.com/YYuanAnyVision/mxnet_mtcnn_face_detection).
 
 Put the processed frames in the path `$root/processed_data`
 
