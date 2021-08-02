@@ -1,5 +1,5 @@
 # USDAN 
-The implementation of [**Unified unsupervised and semi-supervised domain adaptation network for cross-scenario face anti-spoofing**](https://www.sciencedirect.com/science/article/abs/pii/S0031320321000753).
+The implementation of [**Unified unsupervised and semi-supervised domain adaptation network for cross-scenario face anti-spoofing**](https://www.sciencedirect.com/science/article/abs/pii/S0031320321000753), which is accepted by Pattern Recognition 2021.
 
 An overview of the proposed USDAN method:
 
