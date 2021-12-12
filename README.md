@@ -4,7 +4,7 @@ The implementation of [**Unified unsupervised and semi-supervised domain adaptat
 An overview of the proposed USDAN method:
 
 <div align=center>
-<img src="https://github.com/taylover-pei/Code-during-the-master-degree/tree/master/PR2021_USDAN/PR2021-USDAN-release/article" width="700" height="345" />
+<img src="https://github.com/taylover-pei/Code-during-the-master-degree/tree/main/article" width="700" height="345" />
 </div>
 
 ## Congifuration Environment
